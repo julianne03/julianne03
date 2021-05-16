@@ -1,8 +1,12 @@
-### Hello world 👋 I'm positive developer Seungmin Yi
+### Hello world 👋 I'm positive developer, Seungmin Yi 😊
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjulianne03&count_bg=%23FF9FDD&title_bg=%237085B8&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.naver.com%2Fjulianneyi&count_bg=%23FF9FDD&title_bg=%237085B8&icon=bloglovin.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**:computer: I'm learning about..**  
+#### My Blog 📕
+##### You can see my posts here.
+https://velog.io/@julianneyi   
+https://blog.naver.com/julianneyi
+
+**I'm learning about.. 💻**   
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -21,3 +25,6 @@
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianne03&count_private=true&theme=vue&show_icons=true)
+
+
+# Thank You 😎
