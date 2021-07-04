@@ -1,10 +1,9 @@
-### Hello world 👋 I'm positive developer, Seungmin Yi 😊
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjulianne03&count_bg=%23FF9FDD&title_bg=%237085B8&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hello world 👋 I'm positive developer, Seungmin Yi 😊😁
 
 #### My Blog 📕
 ##### You can see my posts here.
-https://velog.io/@julianneyi   
-https://blog.naver.com/julianneyi
+💬 https://velog.io/@julianneyi  
+💬 https://blog.naver.com/julianneyi
 
 **I'm learning about.. 💻**   
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
