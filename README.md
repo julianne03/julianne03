@@ -1,29 +1,36 @@
-### Hello world 👋 I'm positive developer, Seungmin Yi 😊😁
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=247DA4&size=25&multiline=true&width=700&height=50&lines=Hi!+I'm+positive+developer%2C+Seungmin+Yi.)](https://git.io/typing-svg).  
 
-#### My Blog 📕
-##### You can see my posts here.
-💬 https://velog.io/@julianneyi  
-💬 https://blog.naver.com/julianneyi
+## 😁 About Me:
+- 👶 I'm a 19-year-old newbie web developer in Korea
+- 💻 I mainly code in JavaScript, but I'm always learning
+- 📚 I regulary write study notes on my [blog](https://velog.io/@julianneyi)
+- ✉️ You can connect to me with s2019w33@e-mirim.hs.kr
+- ⚡️ Fun fact: I love 🐶 🐱<br><br>
 
-**I'm learning about.. 💻**   
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
-<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />  
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>   
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>  
+## 📫 How to reach me?
+- [Linkedin](https://www.linkedin.com/in/%EC%8A%B9%EB%AF%BC-%EC%9D%B4-2768561bb/)
+- [velog](https://velog.io/@julianneyi)
+- [naver blog](https://blog.naver.com/julianneyi)
+- [instagram](https://www.instagram.com/s____min_ing/)<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianne03&count_private=true&theme=vue&show_icons=true)
+## 📄 I'm learning about
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><br><br>
+  
+## 🔥 Streak stats
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="julianne's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=julianne03&hide_border=true"/>
+  </a>
+</p>
 
+## 📊 Github stats
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="julianne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=julianne03&theme=github&hide_border=true" /></a><br><br>
 
-# Thank You 😎
+## 😎 Thank You
