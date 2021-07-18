@@ -13,8 +13,7 @@
 ## 📫 How to reach me?
 - [Linkedin](https://www.linkedin.com/in/%EC%8A%B9%EB%AF%BC-%EC%9D%B4-2768561bb/)
 - [velog](https://velog.io/@julianneyi)
-- [naver blog](https://blog.naver.com/julianneyi)
-- [instagram](https://www.instagram.com/s____min_ing/)<br><br>
+- [naver blog](https://blog.naver.com/julianneyi)<br><br>
 
 ## 📄 I'm learning about
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
