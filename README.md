@@ -7,6 +7,9 @@
 - ✉️ You can connect to me with s2019w33@e-mirim.hs.kr
 - ⚡️ Fun fact: I love 🐶 🐱<br><br>
 
+## 💡 New Post
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=julianneyi)](https://github.com/eungyeole/velog-readme-stats)
+
 ## 📫 How to reach me?
 - [Linkedin](https://www.linkedin.com/in/%EC%8A%B9%EB%AF%BC-%EC%9D%B4-2768561bb/)
 - [velog](https://velog.io/@julianneyi)
