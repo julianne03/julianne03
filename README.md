@@ -31,8 +31,4 @@
   </a>
 </p>
 
-## 📊 Github stats
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="julianne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=julianne03&theme=github&hide_border=true" /></a><br><br>
-
 ## 😎 Thank You
