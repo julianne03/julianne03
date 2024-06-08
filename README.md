@@ -1,17 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=247DA4&size=25&multiline=true&width=700&height=50&lines=Hi!+I'm+positive+developer%2C+Seungmin+Yi.)](https://git.io/typing-svg).  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=247DA4&size=25&multiline=true&width=700&height=50&lines=Hi!+I'm+positive+developer%2C+Julianne+Yi.)](https://git.io/typing-svg).  
 
 ## 😁 About Me:
-- 👶 I'm a 19-year-old newbie web developer in Korea
-- 💻 I mainly code in JavaScript, but I'm always learning
-- 📚 I regulary write study notes on my [blog](https://velog.io/@julianneyi)
-- ✉️ You can connect to me with s2019w33@e-mirim.hs.kr
+- 👶 I'm a newbie web developer in the United States
+- 💻 I mainly code in JavaScript, but I'm always learning something new
+- 📚 I regularly write study notes on my [blog](https://velog.io/@julianneyi)
+- ✉️ You can connect to me at julianneyi03@gmail.com
 - ⚡️ Fun fact: I love 🐶 🐱<br><br>
 
 ## 💡 New Post
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=julianneyi)](https://velog.io/@julianneyi)
 
 ## 📫 How to reach me?
-- [Linkedin](https://www.linkedin.com/in/%EC%8A%B9%EB%AF%BC-%EC%9D%B4-2768561bb/)
+- [Linkedin](https://www.linkedin.com/in/julianne-yi-2768561bb/)
 - [velog](https://velog.io/@julianneyi)
 - [naver blog](https://blog.naver.com/julianneyi)<br><br>
 
