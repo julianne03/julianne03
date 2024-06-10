@@ -23,12 +23,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><br><br>
   
-## 🔥 Streak stats
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="julianne's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=julianne03&hide_border=true"/>
-  </a>
-</p>
+## 🔥 Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianne03)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianne03)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😎 Thank You
